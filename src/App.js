@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Header from './Header';
+import Cards from './Cards'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
    {/* the nav bar */}
    <Header/>
    {/* the tinder card */}
+   <Cards/>
    {/* the swipers */}
     </div>
   );

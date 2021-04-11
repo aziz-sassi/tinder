@@ -11,6 +11,7 @@ function Header() {
             <IconButton>
             <PersonIcon fontSize="large" className= "header_icon"/>
             </IconButton>
+            
             <img
             className="header_logo"
             src="https://logos-world.net/wp-content/uploads/2020/09/Tinder-Emblem.png"
