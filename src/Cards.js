@@ -15,18 +15,7 @@ function Cards() {
             name : "abir moussi",
             url : "https://lh3.googleusercontent.com/proxy/wwretuHjkFfdlq04Bdn3uXHGlByr67wiPg2diHnqmovetRlKDzUBI72fHLr36-ph07OCL3PDv4GUyJHx8T3K4z0TTK4Edj3go_YzgMXRzUaJQ6S4_PaNtTtCU435q_lBLQ",
         },
-        {
-            name : "fady bel y",
-            url : "https://scontent.ftun3-1.fna.fbcdn.net/v/t1.6435-1/c0.231.588.588a/s320x320/138187231_5421871871160038_8213134546578621285_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=7206a8&_nc_ohc=qmMjDHOdvtYAX8c3PMf&_nc_ht=scontent.ftun3-1.fna&tp=28&oh=73f61ab9e81b8d7cd74d64937f5b1c88&oe=60974A02",
-        },
-        {
-            name : "fady bel y",
-            url : "https://scontent.ftun3-1.fna.fbcdn.net/v/t1.6435-1/c0.231.588.588a/s320x320/138187231_5421871871160038_8213134546578621285_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=7206a8&_nc_ohc=qmMjDHOdvtYAX8c3PMf&_nc_ht=scontent.ftun3-1.fna&tp=28&oh=73f61ab9e81b8d7cd74d64937f5b1c88&oe=60974A02",
-        },
-        {
-            name : "fady bel y",
-            url : "https://scontent.ftun3-1.fna.fbcdn.net/v/t1.6435-1/c0.231.588.588a/s320x320/138187231_5421871871160038_8213134546578621285_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=7206a8&_nc_ohc=qmMjDHOdvtYAX8c3PMf&_nc_ht=scontent.ftun3-1.fna&tp=28&oh=73f61ab9e81b8d7cd74d64937f5b1c88&oe=60974A02",
-        },
+       
     ]);
     const swiped = (direction, nameToDelete)=> {
         console.log("removing" + nameToDelete);
